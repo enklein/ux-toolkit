@@ -1,7 +1,7 @@
 # UX Process Toolkit
-This Toolkit follows three crucial points in the UX/UI process: Discover, Define, and Design. Each step is designed to inform the work done in the steps that follow: Discovery provides all information needed to Define the problem and intended solution which we then Design and polish so that it can be later Developed.
+This Toolkit follows three crucial points in the UX/UI process: Discover, Define, and Design. Each step is designed to inform the work done in the steps that follow: Discovery provides all information needed to Define the problem and intended solution which we then Design and polish so that it can be later Developed. Pick and choose the tools that best suit your project's needs, budget, and timeline.
 
-**Author.** This Toolkit is authored and maintained by Zach Ryan aka Enklein.
+**Author.** This Toolkit is authored and maintained by Zach Ryan aka Enklein to aid the UX/UI process for any that use it.
 
 **Updates.** Incremental updates made to this toolkit will include an overview/notes page for each item under "Tools & Deliverables" sections.
 
@@ -16,7 +16,8 @@ The goal of this step is to inform the design process and its direction.
 * Plan: How do we measure the success of this product and our design process? What KPIs should we keep up with?
 
 **Tools & Deliverables**
-* Interviews
+* Stakeholder Interviews
+* User Interviews
 * Workshops
 * Surveys
 * Analytics
@@ -26,7 +27,6 @@ The goal of this step is to inform the design process and its direction.
     * Competitive Analysis
     * User Testing of current product or competitors' products
     * Heuristic Evaluation
-* Studies done previously by company
 * User Group Personas
 
 *Optional opportunity to draft a report for stakeholders with the results of this phase including copies of any deliverables.*
@@ -99,5 +99,8 @@ This document has been informed by
 ---
 
 ### Updates
+**v1.0.2** - Updated project organization. Minor README copy updates.
+
 **v1.0.1** - Updated 'Optional Report' items.
+
 **v1.0.0** - Initial release.
