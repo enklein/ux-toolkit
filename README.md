@@ -7,6 +7,7 @@ This Toolkit follows three crucial points in the UX/UI process: Discover, Define
 
 **Issues.** If you catch any errors in content or copy, please let me know at mrztryan@gmail.com or create a pull request.
 
+
 ## Discover
 The goal of this step is to inform the design process and its direction.
 * Business: What is the business trying to achieve? What is its culture and brand identity like?
@@ -28,7 +29,8 @@ The goal of this step is to inform the design process and its direction.
 * Studies done previously by company
 * User Group Personas
 
-*Optional Report*
+*Optional opportunity to draft a report for stakeholders with the results of this phase including copies of any deliverables.*
+
 
 ## Define
 * For an existing product — map the path users take with the product to achieve their goal and find and plan for areas for improvement. For a new product — identify similar paths with competitors' products and solve problems they have or map out an informed potential path for users with the new product.
@@ -47,7 +49,8 @@ The goal of this step is to inform the design process and its direction.
 * Test content/organization via user flows testing, card sorting.
 * Review the architecture, deliverables, etc. for approval and to ensure alignment between UX efforts and business goals.
 
-*Optional Report*
+*Optional opportunity to draft a report for stakeholders with the results of this phase including copies of any deliverables.*
+
 
 ## Design
 ### Low-Fi
@@ -63,7 +66,7 @@ While the Define stage identifies and plans major points in the user journey, th
 **Testing, Validation, & Delivery**
 * User testing with flows, frames, and prototypes.
 
-*Optional Report*
+*Optional opportunity to draft a report for stakeholders with the results of this phase including copies of any deliverables.*
 
 ### High-Fi
 Polish the design and provide any necessary documentation.
@@ -75,6 +78,8 @@ Polish the design and provide any necessary documentation.
 * UI/Brand Guidelines +/- Design Library
     * Initial or Updated Release
     * Includes type, iconography, colors, etc.
+
+*Optional opportunity to draft a report for stakeholders with the results of this phase including copies of any deliverables.*
 
 ---
 
@@ -94,4 +99,5 @@ This document has been informed by
 ---
 
 ### Updates
-**1.0.0** - Initial release.
+**v1.0.1** - Updated 'Optional Report' items.
+**v1.0.0** - Initial release.
