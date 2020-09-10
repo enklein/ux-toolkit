@@ -16,8 +16,9 @@ The goal of this step is to inform the design process and its direction.
 * Plan: How do we measure the success of this product and our design process? What KPIs should we keep up with?
 
 **Tools & Deliverables**
-* Stakeholder Interviews
-* User Interviews
+* [Stakeholder Interviews](discover/stakeholder-interviews.md)
+* [User Interviews](discover/user-interviews.md)
+* [User Group Personas](discover/user-group-personas.md)
 * Workshops
 * Surveys
 * Analytics
@@ -27,7 +28,6 @@ The goal of this step is to inform the design process and its direction.
     * Competitive Analysis
     * User Testing of current product or competitors' products
     * Heuristic Evaluation
-* User Group Personas
 
 *Optional opportunity to draft a report for stakeholders with the results of this phase including copies of any deliverables.*
 
@@ -99,6 +99,8 @@ This document has been informed by
 ---
 
 ### Updates
+**v1.1.0** - Stakeholder interviews. User group personas. User interviews.
+
 **v1.0.2** - Updated project organization. Minor README copy updates.
 
 **v1.0.1** - Updated 'Optional Report' items.
