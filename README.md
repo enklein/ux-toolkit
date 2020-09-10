@@ -19,8 +19,8 @@ The goal of this step is to inform the design process and its direction.
 * [Stakeholder Interviews](discover/stakeholder-interviews.md)
 * [User Interviews](discover/user-interviews.md)
 * [User Group Personas](discover/user-group-personas.md)
-* Workshops
-* Surveys
+* [Workshops](discover/ux-workshop.md)
+* [User Surveys](discover/surveys.md)
 * Analytics
 * Competitive Analysis
 * UX Audit, may include or focus on:
@@ -99,6 +99,8 @@ This document has been informed by
 ---
 
 ### Updates
+**v1.2.0** - UX Workshops. Surveys.
+
 **v1.1.0** - Stakeholder interviews. User group personas. User interviews.
 
 **v1.0.2** - Updated project organization. Minor README copy updates.
