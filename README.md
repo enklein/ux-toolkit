@@ -99,12 +99,5 @@ This document has been informed by
 ---
 
 ### Updates
-**v1.2.0** - UX Workshops. Surveys.
-
-**v1.1.0** - Stakeholder interviews. User group personas. User interviews.
-
-**v1.0.2** - Updated project organization. Minor README copy updates.
-
-**v1.0.1** - Updated 'Optional Report' items.
-
-**v1.0.0** - Initial release.
+**10-09-20**: UX Workshop, surveys, stakeholder interviews, user group personas, user interviews. Switched from version numbers to dates.
+**27-08-20**: Updated project organization. Minor README copy updates. Updated 'Optional Report' items. Initial release.

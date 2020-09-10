@@ -21,7 +21,7 @@ Evaluate and analyze the data. Consider coding your responses in organizing qual
 ---
 
 ### References
-- Crady, A. (2018). [*The Ultimate UX Survey Design Guide](https://medium.com/@allisoncrady/designing-iterating-analyzing-user-surveys-for-product-impact-5771fc1cdd7a). Allison Crady on Medium.
+- Crady, A. (2018). [*The Ultimate UX Survey Design Guide*](https://medium.com/@allisoncrady/designing-iterating-analyzing-user-surveys-for-product-impact-5771fc1cdd7a). Allison Crady on Medium.
 - Farrell, S. (2016). [*28 Tips for Creating Great Qualitative Surveys*](https://www.nngroup.com/articles/qualitative-surveys/). Nielsen Norman Group.
 - Hall, T. (2017). [*How to Create Effective User Surveys*](https://uxplanet.org/how-to-create-effective-user-surveys-1cea4b06ff76). UX Planet.
 - Mishra, R. (2018). [*This is all you need to know to conduct a UX survey*](https://uxplanet.org/this-is-all-you-need-to-know-to-conduct-a-ux-survey-50400af45920). UX Planet.
