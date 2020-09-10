@@ -72,10 +72,10 @@ While the Define stage identifies and plans major points in the user journey, th
 Polish the design and provide any necessary documentation.
 
 **Tools & Deliverables**
-* UI Mockups
-* Updated flow, interaction maps
-* High-fi prototypes
-* UI/Brand Guidelines +/- Design Library
+- UI Mockups
+- Updated flow, interaction maps
+- High-fi prototypes
+- UI/Brand Guidelines +/- Design Library
     * Initial or Updated Release
     * Includes type, iconography, colors, etc.
 
@@ -85,16 +85,16 @@ Polish the design and provide any necessary documentation.
 
 ### References
 This document has been informed by 
-* Allabarton, R. (2019). [*What is the UX Design Process? A Complete, Actionable Guide*](https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/). CareerFoundry.
-* Chambers, L. [*UX Process*](https://uxmastery.com/resources/process/). UX Mastery.
-* Fard, A. [*Everything you need to know about UX strategy*](https://adamfard.com/blog/ux-strategy). adamfard.
-* Fard, A. [*Our UX Design Process & Deliverables*](https://adamfard.com/ux-design-process) adamfard.
-* Lim, T. (2016). [*6 Steps in A Common UX Process*](https://blog.prototypr.io/a-common-product-ux-design-process-55af4ab5665e). Prototypr.io on Medium.
-* Mac, Ryo. (2019). [*The Entire UX Design Process*](https://blog.prototypr.io/the-entire-ux-design-process-3fbbb36debd7). Prototypr.io on Medium.
-* Minhas, S. (2018). [*User Experience Design Process*](https://uxplanet.org/user-experience-design-process-d91df1a45916). UXPlanet on Medium.
-* Project.st. [*UX Audit*](https://www.process.st/checklist/ux-audit/). Project.st.
-* Tran, T. (2019). [*The UX design process in 6 stages*](https://www.invisionapp.com/inside-design/6-stages-ux-process/). Inside Design by InVision.
-* Travis, M. (2016). [*60 ways to understand user needs that aren't focus groups or surveys*](https://medium.com/@userfocus/60-ways-to-understand-user-needs-that-arent-focus-groups-or-surveys-8510e13b3408). Medium.
+- Allabarton, R. (2019). [*What is the UX Design Process? A Complete, Actionable Guide*](https://careerfoundry.com/en/blog/ux-design/the-ux-design-process-an-actionable-guide-to-your-first-job-in-ux/). CareerFoundry.
+- Chambers, L. [*UX Process*](https://uxmastery.com/resources/process/). UX Mastery.
+- Fard, A. [*Everything you need to know about UX strategy*](https://adamfard.com/blog/ux-strategy). adamfard.
+- Fard, A. [*Our UX Design Process & Deliverables*](https://adamfard.com/ux-design-process) adamfard.
+- Lim, T. (2016). [*6 Steps in A Common UX Process*](https://blog.prototypr.io/a-common-product-ux-design-process-55af4ab5665e). Prototypr.io on Medium.
+- Mac, Ryo. (2019). [*The Entire UX Design Process*](https://blog.prototypr.io/the-entire-ux-design-process-3fbbb36debd7). Prototypr.io on Medium.
+- Minhas, S. (2018). [*User Experience Design Process*](https://uxplanet.org/user-experience-design-process-d91df1a45916). UXPlanet on Medium.
+- Project.st. [*UX Audit*](https://www.process.st/checklist/ux-audit/). Project.st.
+- Tran, T. (2019). [*The UX design process in 6 stages*](https://www.invisionapp.com/inside-design/6-stages-ux-process/). Inside Design by InVision.
+- Travis, M. (2016). [*60 ways to understand user needs that aren't focus groups or surveys*](https://medium.com/@userfocus/60-ways-to-understand-user-needs-that-arent-focus-groups-or-surveys-8510e13b3408). Medium.
 
 ---
 
