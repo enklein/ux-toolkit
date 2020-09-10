@@ -100,4 +100,5 @@ This document has been informed by
 
 ### Updates
 **10-09-20**: UX Workshop, surveys, stakeholder interviews, user group personas, user interviews. Switched from version numbers to dates.
+
 **27-08-20**: Updated project organization. Minor README copy updates. Updated 'Optional Report' items. Initial release.
