@@ -1,7 +1,7 @@
 [Up](../README.md)
 
 # Stakeholder Interviews
-Stakeholder interviews are designed to explore business goals and brand vision. Find five or so that are super-in-tune with the business and product. Prepare open ended questions that help for gathering info and keeping it conversational.
+Stakeholder interviews are designed to explore business goals and brand vision. Find five or so people that are super-in-tune with the business and product. Prepare open-ended questions that help for gathering info and keeping it conversational.
 
 *Make sure to send the interview questions to stakeholders before conducting the interviews.*
 
