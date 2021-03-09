@@ -10,7 +10,7 @@ Too many user personas are built around presumptions about ideal 'types' of user
 
 ## Keys to Effective Personas
 In making user group personas (or any personas), keep these three points in mind:
-1. **Use Data & Real Insights.** Review analytics data, interview users, and survey users. Gather real data and fine verifiable pain points in your users' experiences with the product (or competitors).
+1. **Use Data & Real Insights.** Review analytics data, interview users, and survey users. Gather real data and find verifiable pain points in your users' experiences with the product (or competitors).
 2. **Design Fast.** Better understand users' goals, frustrations, and likes with a product or process. Document these quickly and move on.
 3. **Skip the Fluff.** Use only what's important. If you want to add more, make sure it's important contextual information, rather than filler. You don't need a fake name, imaginary grandchildren, and their favorite app, but information on how they connect with the product to achieve their goals is valuable.
 
